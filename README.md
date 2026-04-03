@@ -22,8 +22,8 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,html,css,mysql,git,eclipse" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,java,php,mysql,git" />
 </p>
 
 ---
