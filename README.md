@@ -51,8 +51,8 @@
 
 ## 📫 Let's Connect
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin-link  
+📧 Email: abhikarki64@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/abhikarki/
 
 ---
 
