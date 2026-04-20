@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Karki</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | QA Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Aspiring Data Analyst | Digital Marketing | Problem Solver</h3>
 
 
 ---
